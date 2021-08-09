@@ -1,1 +1,1 @@
-# python-project7
+# python-project7-supermarket-simulation
